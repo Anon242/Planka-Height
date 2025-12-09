@@ -9,7 +9,7 @@
 [Firefox](https://addons.mozilla.org/ru/firefox/addon/tampermonkey/)
 
 # Установка скрипта
-Затем перейти по ссылке ниже и нажать "обновить" либо "установить"  
+Затем перейти по ссылке ниже и нажать "обновить" / "установить" / "переустановить"  
 [Скрипт](https://github.com/Anon242/Planka-Height/raw/refs/heads/main/Planka-Height.user.js)  
 > [!NOTE]  
 > Если не работает ссылка, открыть файл Planka-Height выше и нажать кнопку raw (справа) 
