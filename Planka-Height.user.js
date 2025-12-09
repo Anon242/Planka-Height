@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2025-12-09
 // @author       MeGum
+// @description  Yes
 // @match        https://planka.escapedoc.com/boards/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=escapedoc.com
 // @grant        GM_getValue
