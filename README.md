@@ -10,6 +10,6 @@
 
 # Установка скрипта
 Затем перейти по ссылке ниже и нажать "обновить" либо "установить"  
-[Скрипт](https://github.com/Anon242/Planka-Height/raw/refs/heads/main/Planka-Height.js)  
+[Скрипт](https://github.com/Anon242/Planka-Height/raw/refs/heads/main/Planka-Height.user.js)  
 > [!NOTE]  
 > Если не работает ссылка, открыть файл Planka-Height выше и нажать кнопку raw (справа) 
