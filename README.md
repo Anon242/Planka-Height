@@ -3,12 +3,12 @@
 (звездочка наверху справа)
 
 # Установка расширения
-Сначала требуется установить расширение Tampermonkey в ваш брузер.  
+Сначала требуется установить расширение Tampermonkey в ваш брузер  
 ### Tampermonkey:  
 [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?pli=1)  
 [Firefox](https://addons.mozilla.org/ru/firefox/addon/tampermonkey/)
 
 # Установка скрипта
-Затем перейти по ссылке и нажать "обновить"  
+Затем перейти по ссылке ниже и нажать "обновить"  
 [Скрипт](https://github.com/Anon242/Planka-Height/raw/refs/heads/main/Planka-Height-2025-12-09.user.js)  
 Либо открыть файл Planka-Height выше и нажать кнопку raw спарва
